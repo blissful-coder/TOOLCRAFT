@@ -12,7 +12,7 @@ Welcome to TOOLCRAFT, your go-to toolkit for enhancing coding workflows, optimiz
 
 Explore the diverse set of tools included in TOOLCRAFT, each crafted to contribute to a seamless development experience.
 
-1. [Tool1](./tools/tool1): Description of Tool1 and its purpose.
+1. [sth](./tsh): A toy shell program written in C.
 2. [Tool2](./tools/tool2): Description of Tool2 and its benefits.
 3. ...
 
